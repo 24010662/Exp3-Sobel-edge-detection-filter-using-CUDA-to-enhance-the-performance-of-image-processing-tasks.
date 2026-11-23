@@ -1,9 +1,9 @@
 # Exp3-Sobel-edge-detection-filter-using-CUDA-to-enhance-the-performance-of-image-processing-tasks.
 <h3>AIM:  The Sobel operator is a popular edge detection method that computes the gradient of the image intensity at each pixel. It uses convolution with two kernels to determine the gradient in both the x and y directions. This lab focuses on utilizing CUDA to parallelize the Sobel filter implementation for efficient processing of images.</h3>
-<h3>ENTER YOUR NAME : VUTUKURI NSAI KUMAR REDDY</h3.
+<h3>ENTER YOUR NAME : VUTUKURI SAI KUMAR REDDY</h3.
 <h3>ENTER YOUR REGISTER NO : 212224230307</h3>
 <h3>EX. NO: 3</h3>
-<h3>DATE: 11/08/2026</h3>
+<h3>DATE: 23/11/2026</h3>
 <h1> <align=center> Sobel edge detection filter using CUDA </h3>
   Implement Sobel edge detection filtern using GPU.</h3>
 Experiment Details:
